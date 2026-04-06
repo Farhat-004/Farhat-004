@@ -1,6 +1,16 @@
 # 💫 Hi! I'm Farhatul Hassan
-Full-Stack website developer looking for good opportunities.
+Full-stack developer specializing in MERN stack and Next.js, with hands-on experience building scalable web
+applications, RESTful APIs, and real-time systems. Strong foundation in data structures and algorithms with active
+problem-solving practice on LeetCode. Skilled in authentication systems, API integration, and clean architecture.
+Passionate about building production-ready applications and improving performance through efficient coding practices.
+Technical Skills
 
+***Frontend:*** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 </br>
+***Backend:*** Node.js, Express.js, Nest.js, REST APIs, Socket.IO </br>
+***Database:*** MongoDB, PostgreSQL, Prisma ORM </br>
+***Tools & Deployment:*** Git, GitHub, Postman, Vercel, Netlify </br>
+***Core Concepts:*** JWT Authentication, API Integration, State Management, Middleware, MVC Architecture </br>
+***Computer Science:*** Data Structures & Algorithms (Arrays, Two Pointers, Sliding Window, Basic Recursion) </br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/farhatul_hassan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhat_0o4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhatul-hassan-5a1069338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhatul.hassan.dev@gmail.com) 
