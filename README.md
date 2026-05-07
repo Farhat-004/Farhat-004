@@ -6,7 +6,7 @@ Passionate about building production-ready applications and improving performanc
 Technical Skills
 
 ***Frontend:*** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 </br>
-***Backend:*** Node.js, Express.js, Nest.js, REST APIs, Socket.IO </br>
+***Backend:*** Node.js, Express.js, Nest.js, REST APIs,fastAPI Socket.IO </br>
 ***Database:*** MongoDB, PostgreSQL, Prisma ORM </br>
 ***Tools & Deployment:*** Git, GitHub, Postman, Vercel, Netlify </br>
 ***Core Concepts:*** JWT Authentication, API Integration, State Management, Middleware, MVC Architecture </br>
