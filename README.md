@@ -4,11 +4,10 @@ Full-stack developer specializing in MERN stack and Next.js, with hands-on exper
 
 ## Technical Skills: 
 ***Frontend:*** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 </br>
-***Backend:*** Node.js, Express.js, Nest.js, REST APIs,fastAPI Socket.IO </br>
+***Backend:*** Node.js, Express.js, Nest.js, REST APIs,fastAPI </br>
 ***Database:*** MongoDB, PostgreSQL, Prisma ORM </br>
 ***Tools & Deployment:*** Git, GitHub, Postman, Vercel, Netlify </br>
-***Core Concepts:*** JWT Authentication, API Integration, State Management, Middleware, MVC Architecture </br>
-***Computer Science:*** Data Structures & Algorithms (Arrays, Two Pointers, Sliding Window, Basic Recursion) </br>
+***Core Concepts:*** JWT Authentication, API Integration, State Management, Middleware</br>
 
 
 ## 🌐 Socials:
