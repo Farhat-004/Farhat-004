@@ -1,10 +1,9 @@
 # [Farhatul Hassan](https://www.farhatul.me)
-Full-stack developer specializing in MERN stack and Next.js, with hands-on experience building scalable web applications, RESTful APIs, and real-time systems. Strong foundation in data structures and algorithms with active problem-solving practice on LeetCode. Skilled in authentication systems, API integration, and clean architecture. Passionate about building production-ready applications and improving performance through efficient coding practices.<br><br>I am ready for any kind of open contribution or to help in any project under my skills. Feel free to notify me
-
+Full-stack developer specializing in MERN stack and Next.js, with hands-on experience building scalable web applications, RESTful APIs, and real-time systems. Strong foundation in data structures and algorithms with active problem-solving practice on LeetCode. Skilled in authentication systems, API integration, and clean architecture. Passionate about building production-ready applications and improving performance through efficient coding practices.
 
 ## Technical Skills: 
 ***Frontend:*** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 </br>
-***Backend:*** Node.js, Express.js, Nest.js, REST APIs,fastAPI </br>
+***Backend:*** Node.js, Express.js, Nest.js, REST APIs, FastAPI </br>
 ***Database:*** MongoDB, PostgreSQL, Prisma ORM </br>
 ***Tools & Deployment:*** Git, GitHub, Postman, Vercel, Netlify </br>
 ***Core Concepts:*** JWT Authentication, API Integration, State Management, Middleware</br>
